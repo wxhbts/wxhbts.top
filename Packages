@@ -1,11 +1,11 @@
-Package: com.wxhbtsvip.wxhbtspro
+Package: com.wxhbtstop.wxhbtspro
 Version: 1.0.0
 Section: 常用插件
 Maintainer: wxhbts
 Depends: mobilesubstrate
 Architecture: iphoneos-arm64
 Filename: debs/2.deb
-Size: 650
+Size: 648
 Installed-Size: 1
 Description: 请添加apt.wxhbts.pro并删除本来的源
 Name: 抱歉！该站点已停止运行
@@ -13,11 +13,11 @@ Author: wxhbts
 Depiction: https://apt.wxhbts.top/view.html
 SileoDepiction: https://apt.wxhbts.top/sileo.json
 Icon: https://apt.wxhbts.top/CydiaIcon.png
-MD5sum: 7ebaa5d69dd802244daece45a45d9dff
-SHA1: f67fb5e0f44ee768dfc2d1c1e96c9d1fe83cd81f
-SHA256: 92f288755c0643ef4d200626cb730cf4e25a958bfba739fe32cb2350f974ca9c
+MD5sum: d39986ae7d084b1862721b1b2b9dc199
+SHA1: 5b186f02c5d8bb6bad92d44e169906ae999d3c76
+SHA256: 83e3ce4a7202559cffd8c9b6559562f8e818569cd9a08301b584c4a6062cf39a
 
-Package: com.wxhbtsvip.wxhbtspro
+Package: com.wxhbtstop.wxhbtspro
 Version: 1.0.0
 Section: 常用插件
 Maintainer: wxhbts
@@ -32,7 +32,7 @@ Author: wxhbts
 Depiction: https://apt.wxhbts.top/view.html
 SileoDepiction: https://apt.wxhbts.top/sileo.json
 Icon: https://apt.wxhbts.top/CydiaIcon.png
-MD5sum: d5dc33aca7aaaf82d586f6d859bcb037
-SHA1: 8c55fc484ac31c8dbab91dd6b12c2b7a483bfebc
-SHA256: b34f2840b8d7e9a692475df6f8b60e9aaa06610ed16326aa2df2057f5864243a
+MD5sum: 2c7595447e5a26456fa5424098d1b1f6
+SHA1: 370135247a2e88ac331016a636a4066a16bc13e0
+SHA256: b4d04facc3589d62fd527754c8cf1bc624944844c279f51c49cbfa2d81796b2c
 
